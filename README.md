@@ -1,1 +1,3 @@
-# prepcourse-henry
+# Celso Solano
+
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi desktop
